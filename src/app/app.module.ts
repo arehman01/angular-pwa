@@ -21,7 +21,7 @@ import { TodoListComponent } from './todo-list/todo-list.component';
 		FormsModule,
 		BrowserModule,
 		BrowserAnimationsModule,
-		ServiceWorkerModule.register('/ngsw-worker.js', { enabled: environment.production }),
+		ServiceWorkerModule.register('/angular-pwa/ngsw-worker.js', { enabled: environment.production }),
 		MatButtonModule,
 		MatToolbarModule,
 		MatInputModule,
