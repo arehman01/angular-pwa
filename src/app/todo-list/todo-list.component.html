@@ -1,0 +1,15 @@
+<div class="container">
+	
+	<form class="todo-form" (submit)="addTodo($event)">
+		<mat-form-field>
+			<input matInput name="new-todo" [(ngModel)]="newtodo.text" placeholder="New Task">
+		</mat-form-field>
+	</form>
+
+	<mat-list role="list" *ngIf="todos.length !== 0" class="todos-list">
+		<mat-list-item  role="listitem" *ngFor="let todo of todos" [ngClass]="{completed: todo.done}">
+			<mat-checkbox [(ngModel)]="todo.done"></mat-checkbox> {{todo.text}}
+		</mat-list-item>
+	</mat-list>
+
+</div>
