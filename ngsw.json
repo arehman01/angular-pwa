@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/angular-pwa/index.html",
+  "index": "C:/Program Files/Git/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/angular-pwa/favicon.ico",
-        "/angular-pwa/index.html",
-        "/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js",
-        "/angular-pwa/main.d94ea75f6d64d6d413fa.bundle.js",
-        "/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js",
-        "/angular-pwa/styles.852e750265c1c61e8add.bundle.css"
+        "C:/Program Files/Git/angular-pwa/favicon.ico",
+        "C:/Program Files/Git/angular-pwa/index.html",
+        "C:/Program Files/Git/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js",
+        "C:/Program Files/Git/angular-pwa/main.ae0bf5e168a43cd645a3.bundle.js",
+        "C:/Program Files/Git/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js",
+        "C:/Program Files/Git/angular-pwa/styles.852e750265c1c61e8add.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/angular-pwa/main.d94ea75f6d64d6d413fa.bundle.js": "5db737532311f87bf5863dfaa06f9db59b3fd5b9",
-    "/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js": "deb3bb32039edd76a8f1c0a02d1e98148d8f03f7",
-    "/angular-pwa/styles.852e750265c1c61e8add.bundle.css": "d7cb11bd41594a74903a9d3a56ee9b8bc3ce8ddd",
-    "/angular-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/angular-pwa/index.html": "635c64c42943a2aa7350d07a802739d9d8f009e8"
+    "C:/Program Files/Git/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "C:/Program Files/Git/angular-pwa/main.ae0bf5e168a43cd645a3.bundle.js": "29b353e22b8cda9ffe6f25a5937c5daea07523d5",
+    "C:/Program Files/Git/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js": "deb3bb32039edd76a8f1c0a02d1e98148d8f03f7",
+    "C:/Program Files/Git/angular-pwa/styles.852e750265c1c61e8add.bundle.css": "d7cb11bd41594a74903a9d3a56ee9b8bc3ce8ddd",
+    "C:/Program Files/Git/angular-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "C:/Program Files/Git/angular-pwa/index.html": "856d39b80feac35d0243a1c2898a1e2811a4b374"
   }
 }
