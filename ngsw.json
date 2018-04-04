@@ -26,7 +26,9 @@
         "/angular-pwa/assets/icon-256x256.png",
         "/angular-pwa/assets/icon-512x512.png"
       ],
-      "patterns": []
+      "patterns": [
+        "\\/[^\\/]+"
+      ]
     }
   ],
   "dataGroups": [],
