@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
 
 import { environment } from '../environments/environment';
 
-import { MatButtonModule, MatToolbarModule, MatInputModule, MatListModule, MatCheckboxModule } from '@angular/material';
+import { MatButtonModule, MatToolbarModule, MatInputModule, MatListModule, MatCheckboxModule, MatProgressSpinnerModule } from '@angular/material';
 import { TodoListComponent } from './todo-list/todo-list.component';
 
 @NgModule({
@@ -26,7 +26,8 @@ import { TodoListComponent } from './todo-list/todo-list.component';
 		MatToolbarModule,
 		MatInputModule,
 		MatListModule,
-		MatCheckboxModule
+		MatCheckboxModule,
+		MatProgressSpinnerModule
 	],
 	exports: [
 		

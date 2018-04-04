@@ -13,15 +13,32 @@
         "/*.bundle.js",
         "/*.chunk.js"
       ]
+    },
+    "cache": { 
+     "optimizeFor": "performance",
+     "maxAgeMs": 360000000,
+     "maxEntries": 1,
+     "strategy": "lru"
+   }   
+ }, {
+  "name": "assets",
+  "installMode": "lazy",
+  "updateMode": "prefetch",
+  "resources": {
+    "files": [
+      "/assets/**"
+    ],
+    "urls": [
+      "/*"
+    ]
+  }
+}],
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "match": "exact"
+      }
     }
-  }, {
-    "name": "assets",
-    "installMode": "lazy",
-    "updateMode": "prefetch",
-    "resources": {
-      "files": [
-        "/assets/**"
-      ]
-    }
-  }]
+  }
 }

@@ -8,7 +8,7 @@
 
 	<mat-list role="list" *ngIf="todos.length !== 0" class="todos-list">
 		<mat-list-item  role="listitem" *ngFor="let todo of todos" [ngClass]="{completed: todo.done}">
-			<mat-checkbox [(ngModel)]="todo.done"></mat-checkbox> {{todo.text}}
+			<mat-checkbox [(ngModel)]="todo.done" (change)="onCheckboxChange()"></mat-checkbox> {{todo.text}}
 		</mat-list-item>
 	</mat-list>
 
