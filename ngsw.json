@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/index.html",
+  "index": "/angular-pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.d94ea75f6d64d6d413fa.bundle.js",
-        "/polyfills.95f523ba519ac2af484d.bundle.js",
-        "/styles.852e750265c1c61e8add.bundle.css"
+        "/angular-pwa/favicon.ico",
+        "/angular-pwa/index.html",
+        "/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js",
+        "/angular-pwa/main.0c887d14c2a8615e23fb.bundle.js",
+        "/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js",
+        "/angular-pwa/styles.852e750265c1c61e8add.bundle.css"
       ],
       "patterns": []
     },
@@ -26,11 +26,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/main.d94ea75f6d64d6d413fa.bundle.js": "5db737532311f87bf5863dfaa06f9db59b3fd5b9",
-    "/polyfills.95f523ba519ac2af484d.bundle.js": "deb3bb32039edd76a8f1c0a02d1e98148d8f03f7",
-    "/styles.852e750265c1c61e8add.bundle.css": "d7cb11bd41594a74903a9d3a56ee9b8bc3ce8ddd",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "430e21c08bde3d810e8d0de5ba841ceeff1f24a0"
+    "/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/angular-pwa/main.0c887d14c2a8615e23fb.bundle.js": "d69523569124e6399be4b3bd0da3ddad560fae59",
+    "/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js": "deb3bb32039edd76a8f1c0a02d1e98148d8f03f7",
+    "/angular-pwa/styles.852e750265c1c61e8add.bundle.css": "d7cb11bd41594a74903a9d3a56ee9b8bc3ce8ddd",
+    "/angular-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/angular-pwa/index.html": "965625ae3835f2ee0f77bf1344ae4169fc987222"
   }
 }
