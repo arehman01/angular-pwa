@@ -10,9 +10,9 @@
         "/angular-pwa/favicon.ico",
         "/angular-pwa/index.html",
         "/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js",
-        "/angular-pwa/main.0c887d14c2a8615e23fb.bundle.js",
+        "/angular-pwa/main.28558fec85210b732dfd.bundle.js",
         "/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js",
-        "/angular-pwa/styles.852e750265c1c61e8add.bundle.css"
+        "/angular-pwa/styles.8cf805c9ed83db1d1210.bundle.css"
       ],
       "patterns": []
     },
@@ -20,17 +20,26 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "/angular-pwa/assets/icon-128x128.png",
+        "/angular-pwa/assets/icon-152x152.png",
+        "/angular-pwa/assets/icon-256x256.png",
+        "/angular-pwa/assets/icon-512x512.png"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/angular-pwa/main.0c887d14c2a8615e23fb.bundle.js": "d69523569124e6399be4b3bd0da3ddad560fae59",
+    "/angular-pwa/assets/icon-128x128.png": "b938658c3240beea38b1a7f15689a84ea96b9d1e",
+    "/angular-pwa/main.28558fec85210b732dfd.bundle.js": "6a182b60066752dd101c11d0be491caa93230b0a",
+    "/angular-pwa/assets/icon-152x152.png": "170b249de7490b48eb4fcabdca3ebfe107d166a5",
     "/angular-pwa/polyfills.95f523ba519ac2af484d.bundle.js": "deb3bb32039edd76a8f1c0a02d1e98148d8f03f7",
-    "/angular-pwa/styles.852e750265c1c61e8add.bundle.css": "d7cb11bd41594a74903a9d3a56ee9b8bc3ce8ddd",
+    "/angular-pwa/assets/icon-256x256.png": "670cc3ca9777502996ffca94dfa91e210375577f",
+    "/angular-pwa/styles.8cf805c9ed83db1d1210.bundle.css": "3552a192425086320209ecc5c8f5ec5e83ca9739",
+    "/angular-pwa/assets/icon-512x512.png": "4d253e7f9c1b19d0fb5cddbaa62a5b8fad435e47",
     "/angular-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/angular-pwa/index.html": "965625ae3835f2ee0f77bf1344ae4169fc987222"
+    "/angular-pwa/index.html": "f23e96a32c139cc827b394e873b6f6be716ec57b"
   }
 }
